@@ -1,6 +1,6 @@
 {
-  "title": "Pretentious Celebrity",
-  "subtitle": "An arrogant classy celebrity with expensive tastes",
+  "title": "Introduction Enabler",
+  "subtitle": "An academic assistent",
   "model-name": "Meta Llama 3.1 8B Instruct",
   "model": "meta-llama-3.1-8b-instruct",
   "temperature": 0.2,
